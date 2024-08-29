@@ -17,6 +17,7 @@
     "sass": "^1.77.8"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
   }
 }
